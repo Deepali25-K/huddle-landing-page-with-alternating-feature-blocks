@@ -117,6 +117,7 @@ button {
 		url("/images/bg-hero-mobile.svg")
 		no-repeat;
 	background-size: contain;
+	padding-top: 2.5rem;
 }
 
 .header {

@@ -374,7 +374,7 @@ i:hover {
 		align-items: center;
 		justify-content: space-between;
 		text-align: left;
-		gap: 2rem;
+		gap: 2.5rem;
 		width: 90%;
 		padding: 3rem 2.5rem;
 	}
@@ -553,7 +553,7 @@ i:hover {
 	}
 	
 	 .cards {
-    margin: 8rem 0 15rem;
+    margin: 8rem 0 20rem;
   }
 	
 	footer {

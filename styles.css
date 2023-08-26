@@ -90,7 +90,7 @@ body {
 }
 
 .header,
-section, main {
+section {
 	padding: 1rem;
 	display: flex;
 	flex-direction: column;
@@ -111,6 +111,11 @@ button {
 	border-radius: 1rem;
 	cursor: pointer;
 	box-shadow: -2px 2px 20px 0px #0000001f;
+}
+
+button:hover{
+	opacity: 0.7;
+	transition: 0.4s ease-in-out;
 }
 
 /*-- HERO SECTION --*/
